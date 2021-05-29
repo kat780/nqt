@@ -1,3 +1,3 @@
 # nqt 
 # Asterisk Voip project
-code's file in /etc/asterisk
+.conf files in /etc/asterisk
